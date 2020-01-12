@@ -3,6 +3,7 @@ title: "Slow-cooked Chicken with a Crisp Corn Crust"
 date: 2020-01-12T17:30:00+01:00
 header:
   overlay_image: /assets/images/2020-1-12-chicken-corn-crust-header.jpg
+  overlay_filter: rgba(243, 243, 243, 0.5)
 categories:
   - Recipes
 tags:
