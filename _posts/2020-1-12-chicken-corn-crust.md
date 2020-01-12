@@ -46,3 +46,6 @@ This is a wonderful meal on an autumn day, served with a crisp green salad. The 
 * Preheat the oven to 180°C fan.
 * Pour the butter into a blender with the corn, milk, egg yolks and ¾ teaspoon salt. Blitz for a few seconds, to form a rough paste, then spoon into a large bowl. Place the egg whites in a separate clean bowl and whisk to form firm peaks. Fold these gently into the runny corn mixture until just combined, then pour the mix evenly over the chicken.
 * Bake for 35 minutes, until the top is golden-brown: keep an eye on it after 25 minutes to make sure the top is not taking on too much colour: you might need to cover it with tin foil for the final 10 minutes. Remove from the oven and set aside for 10 minutes before serving.
+
+**Source:** [Yotam Ottolenghi, Ottolenghi Simple: A Cookbook](https://ottolenghi.co.uk/recipes/slow-cooked-chicken-with-a-crisp-corn-crust).
+{: .notice}
