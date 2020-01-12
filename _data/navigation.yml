@@ -12,14 +12,14 @@ recipes:
   - title: By Cuisine
     children:
       - title: "Italian"
-        url: /tags/#italian/
+        url: /tags/#italian
       - title: "Middle Eastern"
-        url: /tags/#middle-eastern/
+        url: /tags/#middle-eastern
       - title: "Thai"
-        url: /tags/#thai/
+        url: /tags/#thai
   - title: Special Categories
     children:
       - title: "Desert"
-        url: /tags/#desert/
+        url: /tags/#desert
       - title: "Healthy"
-        url: /tags/#healthy/
+        url: /tags/#healthy
