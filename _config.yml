@@ -104,6 +104,7 @@ defaults:
       comments: true
       share: false
       related: true
+      github_link: true
       sidebar:
         nav: "recipes"
   # _pages
