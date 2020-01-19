@@ -19,9 +19,9 @@ tags:
 * 1 teaspoon Worcestershire sauce
 * 1 tablespoon dried oregano
 * 1/2 tablespoon dried basil
-* 1/2 tablespoon dried parsley
+* 1/2 tablespoon dried parsley
 * salt
-* pepper
+* pepper
 
 ## Preparation
 
