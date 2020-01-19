@@ -57,7 +57,7 @@ layout: default
           <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
         {% endif %}
         {% if page.github_link %}
-          <p class="page__github_link"><strong><i class="fab fa-fw fa-github" aria-hidden="true"></i></strong>See this page on <a href="{{page.url}}">GitHub</a></p>
+          <p class="page__github_link"><strong><i class="fab fa-fw fa-github" aria-hidden="true"></i> Edit posts on <a href="https://github.com/markusschanta/cooking/tree/master/_posts">GitHub</a></strong></p>
         {% endif %}
       </footer>
 
