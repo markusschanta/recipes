@@ -1,6 +1,6 @@
 ---
 title: "Kaiserschmarren"
-date: 2020-01-16T23:30:00+01:00
+date: 2020-02-16T23:30:00+01:00
 categories:
   - Recipes
 tags:
