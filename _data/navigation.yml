@@ -11,6 +11,8 @@ main:
 recipes:
   - title: By Cuisine
     children:
+      - title: "Austrian"
+        url: /tags/#austrian
       - title: "Italian"
         url: /tags/#italian
       - title: "Middle Eastern"
