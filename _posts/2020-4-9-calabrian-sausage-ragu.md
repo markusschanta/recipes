@@ -10,6 +10,8 @@ tags:
   - Italian
 ---
 
+<!--more-->
+
 ## Ingredients (Serves Four)
 
 * 500 g ground pork
