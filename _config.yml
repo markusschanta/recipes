@@ -78,6 +78,7 @@ author:
       url: "https://www.instagram.com/schanta.on.insta/"
 
 footer:
+  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/markusschanta/cooking"
