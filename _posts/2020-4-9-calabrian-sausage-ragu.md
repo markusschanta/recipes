@@ -1,6 +1,9 @@
 ---
 title: "Calabrian Sausage Ragù"
 date: 2020-08-09T19:00:00+01:00
+header:
+  overlay_image: /assets/images/2020-4-9-calabrian-sausage-ragu-header.jpg
+  overlay_filter: rgba(52, 52, 52, 0.25)
 categories:
   - Recipes
 tags:
