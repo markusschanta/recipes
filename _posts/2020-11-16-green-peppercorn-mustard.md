@@ -17,7 +17,7 @@ This mustard has a wonderful kick; it is spicy, but in a very different way from
 * 1/4 cup brown mustard seeds
 * 1/4 cup white mustard seeds
 * 1 teaspoon grated fresh turmeric root
-* 2 teaspoon salt
+* 1 teaspoon salt
 * 1 cup water
 
 ### To Add After Fermentation
