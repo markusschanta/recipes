@@ -4,7 +4,7 @@ date: 2020-01-19T23:30:00+01:00
 categories:
   - Recipes
 tags:
-  - American
+  - "Cuisine: American"
   - Soup
   - Healthy
 ---

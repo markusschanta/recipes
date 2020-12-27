@@ -5,7 +5,7 @@ categories:
   - Recipes
 tags:
   - Healthy
-  - Italian
+  - "Cuisine: Italian"
 ---
 
 ## Ingredients

@@ -4,7 +4,7 @@ date: 2020-01-12T13:30:00+01:00
 categories:
   - Recipes
 tags:
-  - Middle Eastern
+  - "Cuisine: Middle Eastern"
   - The Halal Guys
 ---
 

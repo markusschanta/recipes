@@ -7,7 +7,7 @@ header:
 categories:
   - Recipes
 tags:
-  - Italian
+  - "Cuisine: Italian"
 ---
 
 A tongue-searing sauce worthy of any Italian feast that bears resemblance to the typical Calabrian spicy sausage: The fennel lends the ragù its typical herbaceous aroma while the white wine adds acidic balance and complexity to the dish.

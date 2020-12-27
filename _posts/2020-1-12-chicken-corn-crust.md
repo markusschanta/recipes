@@ -7,7 +7,7 @@ header:
 categories:
   - Recipes
 tags:
-  - Middle Eastern
+  - "Cuisine: Middle Eastern"
   - Yotam Ottolenghi
 ---
 

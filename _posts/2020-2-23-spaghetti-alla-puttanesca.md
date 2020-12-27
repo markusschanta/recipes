@@ -4,7 +4,7 @@ date: 2020-02-23T17:30:00+01:00
 categories:
   - Recipes
 tags:
-  - Italian
+  - "Cuisine: Italian"
 ---
 
 ## Ingredients (Serves Four)

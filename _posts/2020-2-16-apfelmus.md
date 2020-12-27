@@ -4,7 +4,7 @@ date: 2020-02-16T23:45:00+01:00
 categories:
   - Recipes
 tags:
-  - Austrian
+  - "Cuisine: Austrian"
 ---
 
 ## Ingredients (Serves One)

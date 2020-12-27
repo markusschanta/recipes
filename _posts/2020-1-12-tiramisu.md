@@ -4,7 +4,7 @@ date: 2020-01-12T14:00:00+01:00
 categories:
   - Recipes
 tags:
-  - Italian
+  - "Cuisine: Italian"
   - Desert
 ---
 

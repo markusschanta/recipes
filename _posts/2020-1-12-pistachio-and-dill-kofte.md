@@ -4,7 +4,7 @@ date: 2020-01-12T12:45:00+01:00
 categories:
   - Recipes
 tags:
-  - Middle Eastern
+  - "Cuisine: Middle Eastern"
 ---
 
 # Ingredients

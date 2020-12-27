@@ -4,7 +4,7 @@ date: 2020-01-12T12:30:00+01:00
 categories:
   - Recipes
 tags:
-  - Thai
+  - "Cuisine: Thai"
   - Healthy
 ---
 
