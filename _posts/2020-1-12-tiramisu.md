@@ -8,7 +8,7 @@ tags:
   - "Type: Desert"
 ---
 
-# Ingredients
+## Ingredients
 
 * 3-4 Eier
 * 100g Kristallzucker
@@ -18,6 +18,6 @@ tags:
 * Amaretto
 * Kaffee/ Kakao
 
-# Preparation
+## Preparation
 
 Eigelb, Zucker, Vanillezucker schaumig rühren. Mascarino dazugeben mit Amaretto aufschlagen zu dicker Masse. 2 Eiklar steif schlagen und unterheben. Biskotten in Kaffee und Amaretto tauchen und schichten. 6-8 Stunden kaltstellen. Vor dem Servieren mit Kakaopulver bestreuen.

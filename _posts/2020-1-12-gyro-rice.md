@@ -9,7 +9,7 @@ tags:
   - The Halal Guys
 ---
 
-# Ingredients
+## Ingredients
 
 * 1 tablespoon unsalted butter
 * 1 tablespoon oil
@@ -20,7 +20,7 @@ tags:
 * freshly ground black pepper
 * salt
 
-# Preparation
+## Preparation
 
 Melt the butter over medium heat in a large Dutch oven. Add the turmeric and cumin and cook until fragrant but not browned, about 1 minute.
 

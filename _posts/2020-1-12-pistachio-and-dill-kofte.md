@@ -8,7 +8,7 @@ tags:
   - "Type: Main"
 ---
 
-# Ingredients
+## Ingredients
 
 * 400g minced meat
 * 3 tbsp pistachios

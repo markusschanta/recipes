@@ -9,7 +9,7 @@ tags:
   - The Halal Guys
 ---
 
-# Ingredients
+## Ingredients
 
 * 1 cup mayonnaise (try to find one made of only egg yolks, not whole eggs)
 * 1/4 cup water

@@ -9,7 +9,7 @@ tags:
   - The Halal Guys
 ---
 
-# Ingredients
+## Ingredients
 
 * 1 pound ground beef
 * 1 teaspoon garlic powder

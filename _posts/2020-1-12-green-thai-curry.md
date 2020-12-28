@@ -9,7 +9,7 @@ tags:
   - Healthy
 ---
 
-# Ingredients
+## Ingredients
 
 * 500g boneless, skinless chicken breast (cut into bite-sized pieces)
 * 200g aubergines
@@ -24,7 +24,7 @@ tags:
 * 1 tablespoon (palm) sugar
 * 1 teaspoon of salt
 
-# Preparation
+## Preparation
 
 Heat the oil in a saucepan over a high heat and add the curry paste. Stir-fry for 10 seconds until it is fragrant.
 
