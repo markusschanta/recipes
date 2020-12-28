@@ -19,6 +19,6 @@ tags:
 
 ## Preparation
 
-Peel and quarter the apples. Marinate them in the lemon juice to prevent browning. 
-Cook the apples, cloves, cardamom and cinnamon in 1/4l water for 15 minutes on medium heat. 
+Peel and quarter the apples. Marinate them in the lemon juice to prevent browning.
+Cook the apples, cloves, cardamom and cinnamon in 1/4l water for 15 minutes on medium heat.
 Discard the spices and puree the apples.

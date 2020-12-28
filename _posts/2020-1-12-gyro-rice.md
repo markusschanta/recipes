@@ -22,7 +22,7 @@ tags:
 
 # Preparation
 
-Melt the butter over medium heat in a large Dutch oven. Add the turmeric and cumin and cook until fragrant but not browned, about 1 minute. 
+Melt the butter over medium heat in a large Dutch oven. Add the turmeric and cumin and cook until fragrant but not browned, about 1 minute.
 
 Add the rice and stir to coat. Cook, stirring frequently, until the rice is lightly toasted, about 4 minutes.
 
