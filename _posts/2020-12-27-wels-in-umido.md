@@ -4,8 +4,9 @@ date: 2020-12-27T14:00:00+01:00
 categories:
   - Recipes
 tags:
-  - Healthy
   - "Cuisine: Italian"
+  - "Type: Main"
+  - Healthy
 ---
 
 ## Ingredients

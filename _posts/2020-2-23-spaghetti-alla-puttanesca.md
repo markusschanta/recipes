@@ -5,6 +5,7 @@ categories:
   - Recipes
 tags:
   - "Cuisine: Italian"
+  - "Type: Main"
 ---
 
 ## Ingredients (Serves Four)

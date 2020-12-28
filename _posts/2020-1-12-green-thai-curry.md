@@ -5,6 +5,7 @@ categories:
   - Recipes
 tags:
   - "Cuisine: Thai"
+  - "Type: Main"
   - Healthy
 ---
 

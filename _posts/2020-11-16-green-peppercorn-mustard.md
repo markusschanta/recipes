@@ -4,7 +4,7 @@ date: 2020-11-18T22:30:00+01:00
 categories:
   - Recipes
 tags:
-  - Condiments
+  - "Type: Condiment"
 ---
 
 This mustard has a wonderful kick; it is spicy, but in a very different way from the heat of chile or the sinus-invigorating horseradish. The ground green peppercorns give it a fun, flecked appearance.

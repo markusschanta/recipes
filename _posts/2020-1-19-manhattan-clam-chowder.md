@@ -5,7 +5,7 @@ categories:
   - Recipes
 tags:
   - "Cuisine: American"
-  - Soup
+  - "Type: Soup"
   - Healthy
 ---
 

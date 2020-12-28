@@ -5,6 +5,7 @@ categories:
   - Recipes
 tags:
   - "Cuisine: Austrian"
+  - "Type: Desert"
 ---
 
 ## Ingredients (Serves One)

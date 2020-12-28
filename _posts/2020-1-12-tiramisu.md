@@ -5,7 +5,7 @@ categories:
   - Recipes
 tags:
   - "Cuisine: Italian"
-  - Desert
+  - "Type: Desert"
 ---
 
 # Ingredients

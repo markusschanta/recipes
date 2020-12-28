@@ -5,6 +5,7 @@ categories:
   - Recipes
 tags:
   - "Cuisine: Austrian"
+  - "Type: Main"
 ---
 
 ## Ingredients (Serves One)

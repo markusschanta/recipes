@@ -5,6 +5,7 @@ categories:
   - Recipes
 tags:
   - "Cuisine: Middle Eastern"
+  - "Type: Main"
 ---
 
 # Ingredients

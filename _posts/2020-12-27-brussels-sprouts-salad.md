@@ -4,7 +4,7 @@ date: 2020-12-27T17:30:00+01:00
 categories:
   - Recipes
 tags:
-  - Salad
+  - "Type: Salad"
 ---
 
 That’s right — butter in the salad dressing. It must be the holidays.

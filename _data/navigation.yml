@@ -3,6 +3,8 @@ main:
     url: /posts/
   - title: "Cuisine"
     url: /cuisine/
+  - title: "Type"
+    url: /type/
   - title: "Tags"
     url: /tags/
   - title: "About"

@@ -5,6 +5,7 @@ categories:
   - Recipes
 tags:
   - "Cuisine: Middle Eastern"
+  - "Type: Side"
   - The Halal Guys
 ---
 
