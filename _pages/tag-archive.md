@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag (All)"
-permalink: /all-tags/
+title: "Recipes by Tag (All)"
+permalink: /tags/
 layout: tags
 author_profile: true
 ---
