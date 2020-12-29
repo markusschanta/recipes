@@ -1,12 +1,11 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+This is my collection of cooking recipes that I picked up over the years. Whenever I enjoy a recipe, I try to list it here. I do this for a number of reasons: so that these recipes can be shared with others easily, that any changes I make to the recipe (eg. less salt/more butter) are recorded somewhere and I don't forget about the recipe altogether.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+The recipes on this site are tagged by [cuisine](/cooking/cuisine) (eg. [Thai](cooking/cuisine/#thai)) and [type of dish](/cooking/type) (eg. desert), so that they can be found easily when looking for a particular type of dish.
 
-* [Simple Tags](/cooking/tags/)
-* [All Tags](/cooking/all-tags/)
-* [Categories](/cooking/categories/)
+This site is powered by [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes theme](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/). The data and along with the version history can be found on [Github](https://github.com/markusschanta/cooking).
