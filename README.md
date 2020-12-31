@@ -1,6 +1,6 @@
-# Cooking
+# Recipes
 
-Published at https://markusschanta.github.io/cooking/.
+Published at https://markusschanta.github.io/recipes/.
 
 # Minimal Mistakes remote theme starter
 
