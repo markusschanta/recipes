@@ -2,15 +2,22 @@
 layout: archive
 ---
 
+<!--
+
+  This layout is based on the tags layout from the Minimal Mistakes theme:
+  https://github.com/mmistakes/minimal-mistakes/blob/master/_layouts/tags.html
+
+ -->
+
 {{ content }}
 
 {% assign prefix = 'Cuisine:' %}
 {% assign tags_max = 0 %}
 {% for tag in site.tags %}
   {% if tag[0] contains prefix %}
-  {% if tag[1].size > tags_max %}
-    {% assign tags_max = tag[1].size %}
-  {% endif %}
+    {% if tag[1].size > tags_max %}
+      {% assign tags_max = tag[1].size %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
@@ -18,14 +25,14 @@ layout: archive
   {% for i in (1..tags_max) reversed %}
     {% for tag in site.tags %}
       {% if tag[0] contains prefix %}
-      {% assign without_prefix = tag[0] | split: prefix | last %}
-      {% if tag[1].size == i %}
-        <li>
-          <a href="#{{ without_prefix | slugify }}">
-            <strong>{{ without_prefix }}</strong> <span class="taxonomy__count">{{ i }}</span>
-          </a>
-        </li>
-      {% endif %}
+        {% assign without_prefix = tag[0] | split: prefix | last %}
+        {% if tag[1].size == i %}
+          <li>
+            <a href="#{{ without_prefix | slugify }}">
+              <strong>{{ without_prefix }}</strong> <span class="taxonomy__count">{{ i }}</span>
+            </a>
+          </li>
+        {% endif %}
       {% endif %}
     {% endfor %}
   {% endfor %}
@@ -35,18 +42,18 @@ layout: archive
 {% for i in (1..tags_max) reversed %}
   {% for tag in site.tags %}
     {% if tag[0] contains prefix %}
-    {% assign without_prefix = tag[0] | split: prefix | last %}
-    {% if tag[1].size == i %}
-      <section id="{{ without_prefix | slugify | downcase }}" class="taxonomy__section">
-        <h2 class="archive__subtitle">{{ without_prefix }}</h2>
-        <div class="entries-{{ entries_layout }}">
-          {% for post in tag.last %}
-            {% include archive-single.html type=entries_layout %}
-          {% endfor %}
-        </div>
-        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-      </section>
-    {% endif %}
+      {% assign without_prefix = tag[0] | split: prefix | last %}
+      {% if tag[1].size == i %}
+        <section id="{{ without_prefix | slugify | downcase }}" class="taxonomy__section">
+          <h2 class="archive__subtitle">{{ without_prefix }}</h2>
+          <div class="entries-{{ entries_layout }}">
+            {% for post in tag.last %}
+              {% include archive-single.html type=entries_layout %}
+            {% endfor %}
+          </div>
+          <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+        </section>
+      {% endif %}
     {% endif %}
   {% endfor %}
 {% endfor %}
