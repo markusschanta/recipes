@@ -1,31 +1,7 @@
 # Recipes
 
-Published at https://markusschanta.github.io/recipes/.
+This is my collection of cooking recipes that I picked up over the years. Whenever I enjoy a recipe, I try to list it here. I do this for a number of reasons: so that these recipes can be shared with others easily, that any changes I make to the recipe (eg. less salt/more butter) are recorded somewhere and I don't forget about the recipe altogether.
 
-# Minimal Mistakes remote theme starter
+The recipes on this site are tagged by [cuisine](https://markusschanta.github.io/recipes/cuisine) (eg. [Thai](https://markusschanta.github.io/recipes/cuisine/#thai)) and [type of dish](https://markusschanta.github.io/recipes/type) (eg. [desert](https://markusschanta.github.io/recipes/type/#desert)), so that they can be found easily when looking for a particular type of dish.
 
-Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+This site is powered by [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes theme](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/). The data and along with the version history can be found on [Github](https://github.com/markusschanta/recipes/). This site is published at https://markusschanta.github.io/recipes/ via [GitHub Pages](https://pages.github.com/).
