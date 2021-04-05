@@ -6,6 +6,7 @@ categories:
 tags:
   - "Cuisine: Chinese"
   - "Type: Main"
+  - "Healthy"
 ---
 
 The original recipe uses celery instead of broccoli. The broccoli absorbs the sauce more nicely. Furthermore, the original recipe is a bit on the sweet side. This version uses less sugar.
