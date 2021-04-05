@@ -24,4 +24,4 @@ recipes:
   - title: Special Categories
     children:
       - title: "Healthy"
-        url: /tags/#healthy
+        url: /other-tags/#healthy
